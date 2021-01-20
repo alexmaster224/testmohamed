@@ -1,0 +1,55 @@
+fleurs=
+["jonquille", "geranium", "marguerite", "petunia", "orchidee", "edelweiss", "hibiscus", "camelia"
+, "azalee", "coquelicot", lis, iris, hortensia, jacinthe, anemone, amaryllis, dhallia, tulipe]
+
+capitales =["Pretoria","Tirana","Alger","Berlin","Riyad","Erevan","Camberra","Vienne","Bakou",
+                "Nassau","Manama","Daccan","Bridgetown","Bruxelles","Belmopa","Cotonou","Minsk","Rangoun",
+                "Sarajevo","Gaborone","Brasilia","Sofia","Ouagadougou","Bujumbura","Yaounde","Ottawa","Bangui","Santiago",
+                "Pkin","Nicosie","Bogota","Moroni","Pyongyang","Seoul","Yamoussoukro","Zagreb","Copenhague","Djibouti",
+                "Quito","Asmara","Madrid","Tallinn","Washington","Helsinki","Paris","Tbilissi","Accra","Athenes","Guatemala","Conakry","Malabo",
+                "Bissau","Georgetown","Tegucigalpa","Budapest","Jakarta","Bagdad","Teheran","Dublin","Reykjavik","Rome","Kingston","Tokyo",
+                "Amman","Nairobi","Bichkek","Koweit","Vientiane","Riga","Beyrouth""Monrovia","Tripoli","Vaduz","Vilnius",
+                "Luxembourg","Skopje","Antananarivo","Lilongwe","Male","Bamako","Rabat","Nouakchott","Mexico","Chisinau","Podgorica","Maputo","Katmandou",
+                "Managua","Niamey","Abuja","Oslo","Wellington","Mascate","Kampala","Capitale","Islamabad","Panama","Amsterdam","Lima","Manille",
+                "Varsovie","Lisbonne","Doha","Kinshasa","Prague","Bucarest","Londres","Moscou","Kigali","Apia","Dakar","Belgrade","Victoria","Freetown","Singapour",
+                "Bratislava","Ljubljana","Mogadiscio","Khartoum","Colombo","Stockholm","Berne","Paramaribo","Mbabane","Damas","Ndjamena","Bangkok","Lome","Tunis",
+                "Achgabat","Ankara","Funafuti","Kiev","Montevideo","Caracas","Hanoi","Sanaa","Lusaka","Harar"]  
+
+poissons = [
+ "hareng", "turbot", "sardine", "morue", "esturgeon", "anguille", "baudroie", "hyppocampe", "rascasse", barracuda, bonite, calamar, dorade, 
+espadon, grondin, merlan, lieu, rouget, thon]
+
+pays =[
+"Afghanistan", "Georgie", "Pakistan", "Afrique du Sud", "Ghana",
+"Panama", "Albanie", "Grece", "Papouasie Nouvelle Guinee", "Algerie",
+"Guatemala", "Paraguay", "Allemagne", "Guinee",	"Pays Bas", "Andorre",
+"Guinee equatoriale", "Perou", "Arabie saoudite", "Guinee Bissau", "Philippines",
+"Argentine", "Guyana", "Pologne", "Armenie", "Haiti", "Portugal", "Australie",
+"Honduras", "Qatar", "Autriche", "Hongrie", "Republique democratique du Congo",
+"Azerbaidjan",	"Inde", "Republique dominicaine", "Bahamas", "Indonesie",
+"Republique Tcheque", "Bahrein", "Irak", "Roumanie", "Bangladesh", "Iran",
+"Royaume Uni", "Barbade", "Irlande", "Russie", "Belgique", "Islande", "Rwanda",
+"Belize", "Italie", "Salvador", "Benin", "Jamaique", "Samoa", "Bielorussie",
+"Japon", "Sao Tome et Principe", "Birmanie", "Jordanie", "Senegal",
+"Bolivie", "Kazakhstan", "Serbie", "Bosnie Herzegovine", "Kenya", "Seychelles",
+"Botswana", "Kirghizstan", "Sierra Leone", "Bresil", "Kowet", "Singapour",
+"Bulgarie", "Laos", "Slovaquie", "Burkina Faso", "Lettonie", "Slovenie",
+"Burundi", "Liban", "Somalie", "Cambodge", "Liberia", "Soudan",
+"Cameroun", "Libye", "Sri Lanka", "Canada", "Liechtenstein", "Suede",
+"Centrafrique", "Lituanie", "Suisse", "Chili", "Luxembourg", "Suriname",
+"Chine", "Macedoine", "Swaziland", "Chypre", "Madagascar", "Syrie",
+"Colombie", "Malaisie", "Tadjikistan", "Comores", "Malawi",	"Tanzanie",
+"Coree du Nord", "Maldives", "Tchad", "Coree du Sud", "Mali", "Thailande",
+"Costa Rica", "Malte", "Togo", "Cote Ivoire", "Maroc", "Tonga", "Croatie",
+"Mauritanie", "Trinite et Tobago", "Cuba", "Mexique", "Tunisie", "Danemark",
+"Moldavie", "Turkmenistan", "Djibouti", "Monaco", "Turquie", "Egypte",
+"Mongolie", "Tuvalu", "Emirats arabes unis", "Montenegro", "Ukraine",
+"Equateur", "Mozambique", "Uruguay", "Erythree", "Nepal", "Vanuatu", "Espagne",
+"Nicaragua", "Venezuela", "Estonie", "Niger", "Viet Nam", "Etats Unis",
+"Nigeria", "Yemen", "Ethiopie", "Norvege", "Zambie", "Fidji",
+"Nouvelle Zelande", "Zimbabwe"]
+
+
+
+
+
